@@ -95,7 +95,7 @@ pip install numpy pandas matplotlib scikit-learn keras yfinance
    ```bash
    git clone https://github.com/NaeemHussainN/StockPredictorML.git
 
-   cd StockPredictorML
+   cd StockPricePredictor
    ```
 2. Run the Python script:
    ```bash
