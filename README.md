@@ -113,11 +113,6 @@ pip install numpy pandas matplotlib scikit-learn keras yfinance
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## Acknowledgements
 - [Yahoo Finance](https://finance.yahoo.com/) for providing stock market data.
 - [Keras](https://keras.io/) for making deep learning accessible and easy to use.
