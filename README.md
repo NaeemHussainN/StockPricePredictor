@@ -78,8 +78,7 @@ Result: `RMSE = 19.14`
 The model successfully predicts future stock prices with a reasonable degree of accuracy:
 - Predicted price for the next day: `596.66`
 - Actual price for the next day: `$585.25`
-
-Result taken on: December 21, 2024
+- Result from: December 21st, 2024
 ![Model Predictions](https://github.com/NaeemHussainN/StockPredictorML/blob/main/StockModel.png)
 
 ---
