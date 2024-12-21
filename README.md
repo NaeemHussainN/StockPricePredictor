@@ -12,7 +12,7 @@ This project demonstrates the use of an artificial recurrent neural network (Lon
 - [Results](#results)
 - [How to Run](#how-to-run)
 - [Future Improvements](#future-improvements)
-- [License](#license)
+
 
 ---
 
