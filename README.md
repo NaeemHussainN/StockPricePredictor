@@ -78,7 +78,7 @@ The model successfully predicts future stock prices with a reasonable degree of 
 - Predicted price for the next day: `$577.60`
 - Actual price for the next day: `$585.25`
 
-![Model Predictions](https://example.com/your-image-url-here)
+![Model Predictions](https://github.com/NaeemHussainN/StockPredictorML/blob/main/StockModel.png)
 
 ---
 
