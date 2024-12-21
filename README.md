@@ -75,7 +75,7 @@ Result: `RMSE = 19.14`
 ---
 
 ## Results
-The model successfully predicts future stock prices with a reasonable degree of accuracy:
+The model successfully predicts future stock prices for META Inc. with a reasonable degree of accuracy:
 - Predicted price for the next day: `596.66`
 - Actual price for the next day: `$585.25`
 - Result from: December 21st, 2024
