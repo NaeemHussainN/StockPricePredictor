@@ -80,7 +80,7 @@ The model successfully predicts future stock prices for META Inc. with a reasona
 - Actual price for the next day: `$585.25`
 - Result from: December 21st, 2024
 
-![Model Predictions](https://github.com/NaeemHussainN/StockPredictorML/blob/main/StockModel.png)
+![Model Predictions](https://github.com/NaeemHussainN/StockPricePredictor/blob/main/StockModel.png)
 
 ---
 
@@ -94,7 +94,7 @@ pip install numpy pandas matplotlib scikit-learn keras yfinance
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NaeemHussainN/StockPredictorML.git
+   git clone https://github.com/NaeemHussainN/StockPricePredictor.git
 
    cd StockPricePredictor
    ```
