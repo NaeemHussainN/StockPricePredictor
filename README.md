@@ -70,7 +70,7 @@ The LSTM model has the following structure:
 The performance of the model is evaluated using **Root Mean Squared Error (RMSE)**:
 - Lower RMSE indicates better predictions.
 
-Result: `RMSE = 19.14`
+Result: `RMSE = 11.59`
 
 ---
 
